@@ -1,0 +1,7 @@
+Z:\11e\elagazasok\elagazasok\obj\Debug\elagazasok.csprojAssemblyReference.cache
+Z:\11e\elagazasok\elagazasok\obj\Debug\elagazasok.csproj.CoreCompileInputs.cache
+Z:\11e\elagazasok\elagazasok\bin\Debug\elagazasok.exe.config
+Z:\11e\elagazasok\elagazasok\bin\Debug\elagazasok.exe
+Z:\11e\elagazasok\elagazasok\bin\Debug\elagazasok.pdb
+Z:\11e\elagazasok\elagazasok\obj\Debug\elagazasok.exe
+Z:\11e\elagazasok\elagazasok\obj\Debug\elagazasok.pdb
